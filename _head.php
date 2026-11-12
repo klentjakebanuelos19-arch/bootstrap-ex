@@ -9,7 +9,7 @@
 
         #home,
         #contact {
-            scroll-margin-top: 62px;
+        
         }
     </style>
     <title>Bootstrap 5</title>
